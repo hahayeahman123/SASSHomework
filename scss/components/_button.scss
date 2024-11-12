@@ -1,0 +1,6 @@
+@mixin butn ($borrad, $col, $borcol){
+    border-radius: $borrad;
+    background-color: $col;
+    border: solid 2px $borcol;
+    
+}
